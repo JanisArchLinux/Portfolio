@@ -1,0 +1,134 @@
+@media (max-width: 390px   ) {
+
+    body{
+
+        background-color: black;
+    }
+
+
+
+
+    h1{ 
+        color: red;
+        font-family: "Press start 2P";
+        font-size: 16;
+        border-style: solid;
+        padding: 10px;
+        border-width: 7px;
+
+    }
+
+    .fa-github{
+        color: white;
+        position: relative; left: 0px;
+        
+    }
+
+    .fa-linkedin{
+        color: white;
+        position: relative; left: -10px;
+    }
+
+    .fa-envelope{
+        color: white;
+        position: relative; left: -20px;
+
+    
+    }
+
+    img{
+        width: 75px;
+        height: auto;
+        position: relative; top: 5;
+    }
+
+    h2{
+        font-size: 11;
+        position: relative; left: 100; top: 30;
+        color: white;
+        font-family: "Press start 2P";
+    
+    }
+    
+    .aboutmetxt{
+        
+        position: relative; left: 100; top: -40;
+        
+        color: white;
+        font-size: 50px;
+        font-family: "Press start 2P";
+        font-size: 5;
+    
+    }
+
+    .skillstxt{
+        color: white;
+        font-family: "Press start 2P";
+        font-size: 5;
+        position: relative; top: -670 ;left: 135; ;
+        
+    
+    }
+    
+    .titelskills{
+        color: white;
+        font-family: "Press start 2P";
+        position: relative; top: -680;left: 170
+    }
+
+    .goaltitel{
+        color: white;
+        font-family: "Press start 2P";
+        font-size: 11;
+        position: relative;top: -650; left: 20;
+    
+    
+    }
+    
+    .goaltxt{
+        color: white;
+        font-family: "Press start 2P";
+        font-size:5;
+        position: relative;top: -640; left: -10;
+    
+    
+    
+    }
+
+    .projectstitel{
+
+        color: white;
+        font-family: "Press start 2P";
+        font-size: 11;
+        position: relative;top: -620; left: 230;
+    
+    
+    }
+    
+    .projecttxt{
+        
+        color: white;
+        font-family: "Press start 2P";
+        font-size: 11;
+        position: relative;top: -350; left: 900;
+    
+    
+    }
+    .pythonproject{
+        color: red;
+        font-family: "Press start 2P";
+        font-size: 5;
+        position: relative;top: -615; left: 200;
+    
+    
+    }
+
+    .webdevelopement{
+
+        color: red;
+        font-family: "Press start 2P";
+        font-size: 5;
+        position: relative;top: -615; left: 200;
+
+    }
+}

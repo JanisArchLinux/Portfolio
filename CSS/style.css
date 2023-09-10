@@ -1,0 +1,81 @@
+
+body {
+    height: 100vh; /* Adjust the height as needed */
+    width: 100%; /* Set the width to 100% to cover the container */
+    background-image: url("HKVW.gif");
+    background-size: cover; /* Cover the entire container */
+    background-repeat: no-repeat; /* Prevent image repetition */
+    background-position: center; /* Center the background image */
+}
+
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  h1{
+    color: white;
+    font-family: 'Press Start 2P'
+    
+  
+    }
+  
+  body{
+   
+    background-color: black;
+  
+    }
+  
+  .Border{
+    color: white;
+    border-style:solid;
+    border-width: 5px;
+    border-color: white;
+    padding: 5px;
+    
+    
+    font-family: 'Press Start 2P'
+    
+  
+    
+  }
+  
+  .Border1{
+    color: white;
+    border-style:solid;
+    border-width: 5px;
+    border-color: white;
+    padding: 5px;
+    
+    
+    font-family: 'Press Start 2P'
+    
+  
+  }
+  
+  form{
+    color:white;
+  }
+  
+  button{
+    background-color: black;
+    padding:5px;
+    border-width: 5px;
+    border-color:white;
+    color:white;
+    font-family: 'Press Start 2P'
+    
+   
+  }
+  
+  
+  .input{
+    background-color: black;
+    padding:5px;
+    border-width: 5px;
+    border-radius:0px;
+    border-color:white;
+    color:white;
+    font-family: 'Press Start 2P'
+    
+  }

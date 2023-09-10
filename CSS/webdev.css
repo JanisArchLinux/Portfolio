@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    color: white;
+    font-family: "Press start 2P";
+    border-style: solid;
+    padding: 10px;
+    border-width: 7px;
+    
+    
+}
+
+
+body{
+    background-color: black;
+    height: 100vh; /* Adjust the height as needed */
+    width: 100%; /* Set the width to 100% to cover the container */
+    background-size: cover; /* Cover the entire container */
+    background-repeat: no-repeat; /* Prevent image repetition */
+    background-position: center; /* Center the background image */
+}

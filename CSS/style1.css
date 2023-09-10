@@ -1,0 +1,368 @@
+
+body{
+    margin: 0px;
+    overflow-x: hidden;
+    
+    
+    
+}
+
+h1{
+    
+    font-family: "Press start 2P";
+    background: linear-gradient(to bottom, #f8cc24, #f8cc24);
+    margin-top: 0;
+    padding: 20;
+    display: flex;
+    
+   
+    
+   
+
+    
+   
+ 
+    
+    
+}
+.pichead{
+
+    
+
+    
+
+    width: calc(100%);
+    margin-top: -160;
+   
+    text-align: left;
+    display: flex;
+    
+
+}
+
+.picunderaboutme{
+    width: calc(100%);
+    margin-bottom: 600px;
+    margin-top: -800;
+   
+    text-align: left;
+    display: flex;
+    
+}
+
+
+.aboutanubis{
+
+    position:relative; top: -105px ; left: 100px;
+    border: none;
+    outline: none;
+    background-color: #000000;
+    padding: 15px 25px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    border-radius: 5px;
+    transition: all ease 0.1s;
+    box-shadow: 0px 5px 0px 0px #eaeaea;
+}
+
+.aboutanubis:active {
+    transform: translateY(5px);
+    box-shadow: 0px 0px 0px 0px #a29bfe;
+}
+
+.educationbutton{
+
+    position:relative; top: -105px ; left: 125px;
+    border: none;
+    outline: none;
+    background-color: #000000;
+    padding: 15px 25px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    border-radius: 5px;
+    transition: all ease 0.1s;
+    box-shadow: 0px 5px 0px 0px #eaeaea;
+}
+
+.educationbutton:active {
+    transform: translateY(5px);
+    box-shadow: 0px 0px 0px 0px #a29bfe;
+}
+
+
+#selfeducation{
+    
+    position: relative;top: -1000;
+}
+
+
+       
+
+
+
+#paragraphdiv{
+	text-decoration: uppercase;
+	font-size: 36px;
+	text-decoration: bold;
+	color: white;
+	font-family: "Press Start 2P";
+    position: relative; top: -600px;
+   
+}
+
+
+
+
+
+.logopic{
+    position: relative; top: -85px; left: 10px;
+    
+    
+    
+    width: calc(20%);
+}
+
+
+body{
+    background-color: black;
+    height: 100vh; /* Adjust the height as needed */
+    width: 100%; /* Set the width to 100% to cover the container */
+    background-size: cover; /* Cover the entire container */
+    background-repeat: no-repeat; /* Prevent image repetition */
+    background-position: center; /* Center the background image */
+}
+
+
+
+.fa-github{
+    color: black;
+    position:relative; left: 1550px;
+    
+    
+}
+
+.fa-linkedin{
+    color: black;
+    position: relative; left: 1400px;
+    
+}
+
+.fa-envelope{
+    color: black;
+    position: relative;
+    height: 0%;
+    position: relative; left: 1430px;
+ 
+}
+
+img{
+    width: 200px;
+    height: auto;
+    position: relative; top: 80;
+    
+}
+
+h2{
+    position: relative; left: 250px; top: 130px;
+    color: white;
+    font-family: "Press start 2P";
+
+}
+
+.aboutmetxt{
+
+    position: relative; left: 230; top: -60;
+    color: white;
+    font-family: "Roboto";
+    font-size: 24;
+    
+
+}
+
+
+
+
+
+.titelskills{
+    color: white;
+    font-family: "Press start 2P";
+    position: relative; top: -350;left: 230px; ;
+
+}
+
+.selfeducationtxt{
+    position: relative; left: 230; top: -300;
+    color: white;
+    font-family: "Roboto";
+    font-size: 24;
+}
+
+.titelsparc{
+    color: white;
+    font-family: "Press start 2P";
+    position: relative; left: 230; top: -200;
+
+}
+
+
+
+.sparctxt{
+    color: white;
+    font-family: "Roboto";
+    position: relative; left: 230; top: -200;
+    font-size: 24;
+
+
+
+
+}
+
+.sparclogo{
+    width: 200px;
+    height: auto;
+    position: relative; top: -355px;
+
+}
+
+.titeludemy{
+    color: white;
+    font-family: "Press start 2P";
+    position: relative; left: 230; top: -100;
+    margin-top: -100px;
+
+}
+
+.udemytxt{
+    color: white;
+    font-family: "Roboto";
+    position: relative; left: 230; top: -100;
+    font-size: 24;
+
+}
+.udemylogo{
+    width: 150px;
+    height: auto;
+    position: relative; top: -230px;left: 30px;
+
+}
+
+.englishtitel{
+    color: white;
+    font-family: "Press start 2P";
+    position: relative; left: 230; 
+    margin-top: 25px;
+   
+
+}
+.englishtxt{
+    color: white;
+    font-family: "Roboto";
+    position: relative; left: 230; 
+    font-size: 24;
+    margin-bottom: -100px;
+
+}
+
+.b2logo{
+
+    width: 150px;
+    height: auto;
+    position: relative; top: 0px;left: 30px;
+
+}
+
+.picunderenglish{
+    width: calc(100%);
+    margin-bottom: 0px;
+    margin-top: -100px;
+   
+    text-align: left;
+    display: flex;
+    
+}
+
+
+
+
+
+.projectstitel{
+
+    color: rgb(0, 0, 0);
+    font-family: "Press start 2P";
+    font-size: 24;
+    position: relative;top: 550; left: 950;
+
+
+}
+
+
+
+
+.pythonproject{
+    color: rgb(0, 0, 0);
+    font-family: "Press start 2P";
+    font-size: 11;
+    position: relative;top: 550; left: 950;
+
+
+}
+
+
+
+
+
+
+
+
+footer {
+	background-color: rgb(35, 35, 35);
+	color: white;
+	font-size: 15px; 
+	padding: 100px 0;
+	border-top: 10px solid #f8cc24; 
+    margin-top: 1000px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+

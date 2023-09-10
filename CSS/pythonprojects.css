@@ -1,0 +1,158 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    color: white;
+    font-family: "Press start 2P";
+    border-style: solid;
+    padding: 10px;
+    border-width: 7px;
+    
+    
+}
+
+
+body{
+    background-color: black;
+    height: 100vh; /* Adjust the height as needed */
+    width: 100%; /* Set the width to 100% to cover the container */
+    background-size: cover; /* Cover the entire container */
+    background-repeat: no-repeat; /* Prevent image repetition */
+    background-position: center; /* Center the background image */
+}
+
+.projecttxt{
+    
+    color: white;
+    font-family: "Press start 2P";
+    font-size: 11px;
+    position: relative;top: -350; left: 900;
+
+
+}
+
+.picportscanner{
+
+    width: 500px;
+    height: auto; 
+    position: relative;left: 50px;top: -100;
+
+
+
+
+}
+
+.portscannerexedownload{
+
+    position: relative;top: -250;left: 50px;
+    background-color: black;
+    padding:5px;
+    border-width: 5px;
+    border-color:white;
+    color:white;
+    font-family: 'Press Start 2P'
+    
+
+
+}
+
+.portscannersoucedownload{
+
+    position: relative;top: -250;left: 50px;
+    background-color: black;
+    padding:5px;
+    border-width: 5px;
+    border-color:white;
+    color:white;
+    font-family: 'Press Start 2P'
+
+
+}
+
+.portscannertitel{
+    color: white;
+    font-family: "Press start 2P";
+    font-size: 24px;
+    position: relative;top: -350; left: 900;
+
+}
+
+.passwordgeneratortitl{
+
+    color: white;
+    font-family: "Press start 2P";
+    font-size: 24px;
+    position: relative; top: 0px;left: 50px;
+
+}
+
+
+.passwordgeneratortxt{
+    color: white;
+    font-family: "Press start 2P";
+    font-size: 11px;
+    position: relative; top: 0px;left: 50px;
+
+
+}
+
+
+.picpasswordgenerator{
+    width: 500px;
+    height: auto; 
+    position: relative; top: -0px;left: 50px;
+
+
+}
+
+.passwordgeneratorexe{
+
+    position: relative; top: 0px; right: -50px;
+
+    background-color: black;
+    padding:5px;
+    border-width: 5px;
+    border-color:white;
+    color:white;
+    font-family: 'Press Start 2P'
+
+    
+
+   
+
+
+}
+
+
+.passwordgeneratorpy{
+    position: relative; top: 0px; right: -50px;
+    background-color: black;
+    padding:5px;
+    border-width: 5px;
+    border-color:white;
+    color:white;
+    font-family: 'Press Start 2P'
+
+
+    
+    
+
+
+}
+
+.gobackhomebutton{
+
+    font-size: 24px;
+    position: relative; left: 50px; 
+
+    background-color: red;
+    padding:5px;
+    border-width: 5px;
+    border-color:white;
+    color:white;
+    font-family: 'Press Start 2P'
+    
+
+
+}
